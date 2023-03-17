@@ -1,0 +1,10 @@
+{
+  "name": "linkable",
+  "dependencies": {
+    "axios": "*"
+  },
+  "peerDependencies": {
+    "react": "17",
+    "react-dom": "*"
+  }
+}

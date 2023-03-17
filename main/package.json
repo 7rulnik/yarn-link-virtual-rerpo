@@ -1,0 +1,10 @@
+{
+  "name": "main",
+  "dependencies": {
+    "linkable": "*",
+    "react": "*"
+  },
+  "resolutions": {
+    "linkable": "portal:/Users/v7rulnik/projects/aviasales/yarn-test/linkable"
+  }
+}
