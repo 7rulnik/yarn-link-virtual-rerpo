@@ -4,6 +4,8 @@
 ```sh
 cd main
 yarn install
+yarn link ../linkable
+yarn install
 node index.js
 ```
 
